@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Prueba 5-8-19</string>
+    <string name="registratupeli">Registra tu pelicula favorita</string>
+    <string name="registrar">Guardar</string>
+    <string name="urlimagen">URL imagen</string>
+    <string name="tiutulo">Titulo</string>
+    <string name="lenguaje">Lenguaje</string>
+    <string name="descripcion">Descripción</string>
+    <string name="fechadeestreno">Fecha de estreno</string>
+    <string name="id">ID</string>
 </resources>
